@@ -37,7 +37,7 @@ img {
 --------------------*/
 .bl_tel.bl_tel__beforeIcon::before {
   content: '';
-  background-image: url(../img/tel.svg);
+  background-image: url(img/tel.svg);
   display: inline-block;
   height: 1.5rem;
   width: 1.5rem;
@@ -319,7 +319,7 @@ img {
 
 .bl_media_ttl_wrapper::after {
   content: '';
-  background-image: url(../img/curve-arrow.svg);
+  background-image: url(img/curve-arrow.svg);
   display: inline-block;
   height: 1.5rem;
   width: 15rem;
@@ -411,7 +411,7 @@ img {
 
 .el_beforeIconBtn.el_beforeIconBtn__calcuratorBlue::before {
   content: '';
-  background-image: url(../img/calculator.svg);
+  background-image: url(img/calculator.svg);
   display: inline-block;
   height: 1.2rem;
   width: 1rem;
@@ -422,7 +422,7 @@ img {
 
 .el_beforeIconBtn.el_beforeIconBtn__yellow::before {
   content: '';
-  background-image: url(../img/calculator-yellow.svg);
+  background-image: url(img/calculator-yellow.svg);
   background-size: contain;
   display: inline-block;
   height: 2rem;
@@ -433,7 +433,7 @@ img {
 
 .el_beforeIconBtn.el_beforeIconBtn__tel::before {
   content: '';
-  background-image: url(../img/phone.svg);
+  background-image: url(img/phone.svg);
   display: inline-block;
   width: 18.5px;
   height: 18.5px;
@@ -460,7 +460,7 @@ img {
 
 .el_btn.el_btn__instagram::before {
   content: '';
-  background-image: url(../img/awesome-instagram.svg);
+  background-image: url(img/awesome-instagram.svg);
   display: inline-block;
   height: 1.2rem;
   width: 1.2rem;
@@ -1072,7 +1072,7 @@ img {
 
 .bl_information_txt.bl_information_txt__iconTel::before {
   content: '';
-  background-image: url(../img/phone.svg);
+  background-image: url(img/phone.svg);
   display: inline-block;
   width: 18.5px;
   height: 18.5px;
@@ -1086,7 +1086,7 @@ img {
 
 .bl_information_txt.bl_information_txt__iconCalc::before {
   content: '';
-  background-image: url(../img/calculator-yellow.svg);
+  background-image: url(img/calculator-yellow.svg);
   display: inline-block;
   width: 20px;
   height: 20px;
@@ -1103,7 +1103,7 @@ img {
 
 .bl_line_ttl::before {
   content: '';
-  background-image: url(../img/line-icon.svg);
+  background-image: url(img/line-icon.svg);
   display: inline-block;
   height: 1.2rem;
   width: 1.2rem;
